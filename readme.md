@@ -25,7 +25,7 @@ Ejecutar: `python juego.py` y `python game_logic.py`
 
 ## Video explicativo
 
-Enlace al video (máximo 5 minutos): [Pegar aquí el enlace del video]
+https://drive.google.com/file/d/1krxVkkH-Kb53wqS7RvWPEJXij7kwRf9b/view?usp=sharing
 
 ## Licencia
 
