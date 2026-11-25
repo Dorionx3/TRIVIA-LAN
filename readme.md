@@ -5,7 +5,7 @@ Juego de trivia multijugador en Python (modo local y en red LAN mediante cliente
 ## Integrantes
 
 Joaquín Sánchez Dillon
-Dario [Apellido]
+Dario Avalos
 Sebastian Leiva
 
 ## Cómo ejecutarlo
